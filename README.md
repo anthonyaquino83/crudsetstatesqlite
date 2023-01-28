@@ -1,16 +1,8 @@
-# crudsetstatesqlite
+# Lista de notas com setState e SQLite
 
-A new Flutter project.
+Esse projeto faz parte do vídeo do canal AnthonyDev no YouTube utilizando setState e SQLite para gerenciar transações do CRUD.
 
-## Getting Started
+This project is part of AnthonyDev YouTube video CRUD with setState and SQLite to manage CRUD transactions.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link do video:
+https://youtu.be/wTeL57lD4xU
